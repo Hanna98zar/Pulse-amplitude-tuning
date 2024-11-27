@@ -1,0 +1,1 @@
+This repository contains code for tuning pulse amplitudes to optimize the performance of quantum gates, with a particular focus on minimizing errors and leakage in superconducting qubit systems. The approach includes simulations and visualizations of pulse dynamics to enhance gate fidelity and mitigate unwanted transitions to higher energy states.
